@@ -1,4 +1,6 @@
 /*
+This program: 
+
 Money Maker
 You have three types of coins:
 
@@ -14,6 +16,8 @@ For example, 16 cents could be:
 16 bronze coins,
 3 silver coins and 1 bronze coin, or
 1 gold coin, 1 silver coin, 1 bronze coin
+
+Author: Frej Björnsson
 */
 
 
