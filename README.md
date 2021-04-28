@@ -1,11 +1,11 @@
 # Code Academy Projects
 ## C#
 ### Data Types and Variables
- - Mad Libs
- - Money Maker
+ - [x] [Mad Libs](https://github.com/FrejBjornsson/CodeAcademy/blob/main/C%23/1.%20Data%20Types%20and%20Variables/MadLibs.cs)
+ - [x] [Money Maker](https://github.com/FrejBjornsson/CodeAcademy/blob/main/C%23/1.%20Data%20Types%20and%20Variables/MoneyMaker.cs)
 ### Logic and Conditionals
- - Choose Your Own Adventure
- - Password Checker
+ - [x] [Choose Your Own Adventure](https://github.com/FrejBjornsson/CodeAcademy/blob/main/C%23/2.%20Logic%20and%20Conditionals/ChooseYourOwnAdventure.cs)
+ - [x] [Password Checker](https://github.com/FrejBjornsson/CodeAcademy/blob/main/C%23/2.%20Logic%20and%20Conditionals/PasswordChecker.cs)
 ### Methods
  - Architect Arithmetic
  - Exquisite Corpse
