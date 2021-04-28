@@ -14,3 +14,13 @@
  - [ ] True or False?
 ### Classes and Objects
  - [x] [Object of Your Affection (OOYA)](https://github.com/FrejBjornsson/CodeAcademy/blob/main/C%23/5.%20Classes%20and%20Objects/OOYA.cs)
+ 
+### Interfaces and Inheritance
+ - [ ] App Interfaces
+ - [ ] Supernatural Inheritance
+
+### References
+ - [ ] Rover Control Center
+
+### Lists and LINQ
+ - [ ] Programming Languages
