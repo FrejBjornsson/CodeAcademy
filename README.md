@@ -10,7 +10,7 @@
  - [x] [Architect Arithmetic](https://github.com/FrejBjornsson/CodeAcademy/blob/main/C%23/3.%20Methods/ArchitectArithmetic.cs)
  - [x] [Exquisite Corpse](https://github.com/FrejBjornsson/CodeAcademy/blob/main/C%23/3.%20Methods/ExquisiteCorpse.cs)
 ### Arrays and Loops
- - [] Caesar Cipher
- - [] True or False?
+ - [ ] Caesar Cipher
+ - [ ] True or False?
 ### Classes and Objects
- - [] Object of Your Affection (OOYA)
+ - [ ] Object of Your Affection (OOYA)
